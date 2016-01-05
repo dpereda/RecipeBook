@@ -1,4 +1,3 @@
-Hello Welcome to the Book.
+This is my Test project of LevelUpTuts Intermediate Meteor. 
 
-Init
-I added packages and updated to meteor 1.2.1
+Currently up to EP 6.
