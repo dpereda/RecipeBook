@@ -6,4 +6,5 @@ My main personal machine is a Windows 10 laptop.
 I also use Nitrous.io for dev from my Work machine or from my tablet when I am on the train. 
 I also sometimes work on a Linux machine
 
-Currently finished EP 22. on to ep 23
+Currently finished EP 23. I think i am dont for today,  only 3 episodes left
+
